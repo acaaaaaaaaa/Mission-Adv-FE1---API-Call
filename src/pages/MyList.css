@@ -1,0 +1,24 @@
+.my-list-container {
+  background-color: #141414;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.my-list-page {
+  flex: 1;
+  color: white;
+  padding: 40px 60px;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 25px 20px;
+}

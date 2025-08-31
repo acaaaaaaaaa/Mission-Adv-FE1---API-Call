@@ -1,0 +1,79 @@
+.hero-banner {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 92.8vh;
+  display: flex;
+  align-items: center;
+  padding: 0 60px;
+  color: white;
+  overflow: hidden;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 100vh;
+  margin-left: 20px;
+  margin-bottom: -220px;
+}
+
+.hero-content h1{
+  font-size: 40px;
+}
+
+.hero-content p{
+  font-size: 15px;
+}
+
+.hero-buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.btn-start{
+  background-color: rgb(0, 0, 159);
+}
+
+.btn-start:hover{
+  background-color: rgb(0, 0, 109);
+}
+
+.btn-more {
+  background-color: hsl(204, 10%, 10%);
+}
+
+.btn-more:hover{
+  background-color: #262a2d;
+}
+
+.btn-start,
+.btn-more {
+  padding: 10px 30px;
+  border: none;
+  color: white;
+  border-radius: 35px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.age-tag {
+  font-size: 15px;
+  border: 1px solid white;
+  padding: 7px 9px;
+  border-radius: 20px;
+}
+
+.gradasi{
+  content: '';
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  width: 100%;
+  height: 600px; 
+  z-index: 1;
+  background: linear-gradient(to bottom, transparent, rgb(0, 0, 0));
+  pointer-events: none;
+}

@@ -1,0 +1,82 @@
+.movie-card-grid {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  aspect-ratio: 2 / 3;
+}
+
+.movie-card-grid:hover {
+  transform: scale(1.05);
+}
+
+.card-poster {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.label-episode-baru {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: #0052cc; 
+  color: white;
+  padding: 4px 10px;
+  border-radius: 16px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.label-top-10 {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #e50914;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.top-number {
+  font-size: 14px;
+}
+
+/* Tombol Favorit */
+.favorite-button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.favorite-button:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  transform: scale(1.1);
+}
+
+.favorite-button i {
+  color: #ffffff;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.favorite-button i.favorite-active {
+  color: #e50914;
+  transform: scale(1.2);
+}

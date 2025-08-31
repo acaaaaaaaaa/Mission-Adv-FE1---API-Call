@@ -1,0 +1,540 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Don't Look Up",
+      "image": "/images/M1.png",
+      "rating": 4.5,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "All of Us Are Dead",
+      "image": "/images/M2-T4.png",
+      "rating": 4.5,
+      "label": "Episode Baru",
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Blue Lock",
+      "image": "/images/M3.png",
+      "rating": 4.6,
+      "label": "Episode Baru",
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "A Man Called Otto",
+      "image": "/images/M4.png",
+      "rating": 4.4,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "어쩌다 마주친 그대",
+      "image": "/images/M/MT1.png",
+      "rating": 4.5,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Shazam Fury of the Gods",
+      "image": "/images/M/MT2.png",
+      "rating": 4.2,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Avatar",
+      "image": "/images/M/MT3.png",
+      "rating": 4.6,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "The Little Mermaid",
+      "image": "/images/M/MT5.png",
+      "rating": 4.3,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Rio",
+      "image": "/images/M/MT6.png",
+      "rating": 4.1,
+      "top": 9,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Tomorrow War",
+      "image": "/images/M/MT7.png",
+      "rating": 4.4,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "11",
+      "image": "/images/M/MT8.png",
+      "title": "A Man Called Otto",
+      "rating": 4.7,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Big Hero 6",
+      "image": "/images/M/MT9.png",
+      "rating": 4.2,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Suzume",
+      "image": "/images/M/MT10.png",
+      "rating": 4.6,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Batman",
+      "image": "/images/M/MT11.png",
+      "rating": 4.3,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Stuart Little",
+      "image": "/images/M/MT12.png",
+      "rating": 4.5,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Baymax",
+      "image": "/images/M/MT13.png",
+      "rating": 4.1,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Movie 14",
+      "image": "/images/M/MT14.png",
+      "rating": 4.4,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Guard of The Galaxy",
+      "image": "/images/M/MT15.png",
+      "rating": 4.6,
+      "top": 16,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Alice in Borderland",
+      "image": "/images/M/MT16.png",
+      "rating": 4.2,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Megan",
+      "image": "/images/M/MT17.png",
+      "rating": 4.7,
+      "category": [
+        "continue-watching"
+      ]
+    },
+    {
+      "id": "21",
+      "image": "/images/F1.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "22",
+      "image": "/images/F2.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "23",
+      "image": "/images/F3.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "24",
+      "image": "/images/F4.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "25",
+      "image": "/images/F5-R1.png",
+      "top": 5,
+      "category": [
+        "trending",
+        "new-release"
+      ]
+    },
+    {
+      "id": "26",
+      "image": "/images/F/TF1.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "27",
+      "image": "/images/F/TF2.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "28",
+      "image": "/images/F/TF3.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "29",
+      "image": "/images/F/TF5.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "30",
+      "image": "/images/F/TF6.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "31",
+      "image": "/images/F/TF7.png",
+      "label": "Episode Baru",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "32",
+      "image": "/images/F/TF8.png",
+      "label": "Episode Baru",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "33",
+      "image": "/images/F/TF9.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "34",
+      "image": "/images/F/TF10.png",
+      "category": [
+        "trending"
+      ]
+    },
+    {
+      "id": "35",
+      "image": "/images/R2.png",
+      "top": 12,
+      "label": "Episode Baru",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "36",
+      "image": "/images/R4.png",
+      "top": 3,
+      "label": "Episode Baru",
+      "rating": 4.9,
+      "category": [
+        "trending",
+        "new-release",
+        "top-rated"
+      ]
+    },
+    {
+      "id": "37",
+      "image": "/images/R5.png",
+      "label": "Episode Baru",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "38",
+      "image": "/images/R/TR1.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "39",
+      "image": "/images/R/TR2.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "40",
+      "image": "/images/R/TR3.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "41",
+      "image": "/images/R/TR4.png",
+      "label": "Episode Baru",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "42",
+      "image": "/images/R/TR5.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "43",
+      "image": "/images/R/TR6.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "44",
+      "image": "/images/R/TR7.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "45",
+      "image": "/images/R/TR8.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "46",
+      "image": "/images/R/TR9.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "47",
+      "image": "/images/R/TR10.png",
+      "top": 3,
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "48",
+      "image": "/images/R/TR11.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "49",
+      "image": "/images/R/TR12.png",
+      "category": [
+        "new-release"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "JO KA C U T I E",
+      "episode": "Episode B2.10",
+      "genre": [
+        "Misteri",
+        "Kriminal",
+        "Fantasi"
+      ],
+      "publisher": "FINANCIAL WORLD MONTHLY",
+      "totalEpisodes": "16 Episode",
+      "rating": 5,
+      "image": "/images/F/TF4.png",
+      "category": [
+        "trending",
+        "top-rated"
+      ]
+    },
+    {
+      "id": "51",
+      "image": "/images/T2.png",
+      "title": "Judul Film 2",
+      "episode": "Episode 1",
+      "genre": [
+        "Aksi",
+        "Drama"
+      ],
+      "publisher": "Studio 2",
+      "totalEpisodes": "12 Episode",
+      "rating": 4.8,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "52",
+      "image": "/images/T3.png",
+      "rating": 4.8,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "53",
+      "image": "/images/T5-R3.png",
+      "rating": 4.9,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "54",
+      "image": "/images/T/TM1.png",
+      "rating": 4.7,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "55",
+      "image": "/images/T/TM2.png",
+      "rating": 5,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "56",
+      "image": "/images/T/TM3.png",
+      "rating": 4.5,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "57",
+      "image": "/images/T/TM4.png",
+      "rating": 4.7,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "58",
+      "image": "/images/T/TM5.png",
+      "rating": 4.6,
+      "label": "Episode Baru",
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "59",
+      "image": "/images/T/TM6.png",
+      "rating": 4.8,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "60",
+      "image": "/images/T/TM7.png",
+      "rating": 4.9,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "61",
+      "image": "/images/T/TM8.png",
+      "rating": 4.7,
+      "category": [
+        "top-rated"
+      ]
+    },
+    {
+      "id": "62",
+      "image": "/images/T/TM10.png",
+      "rating": 4.8,
+      "category": [
+        "top-rated"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "242d",
+      "username": "aassaw",
+      "email": "aas1@gamil.com",
+      "password": "123456",
+      "myMovies": [
+        "50",
+        "51"
+      ]
+    }
+  ]
+}
